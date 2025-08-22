@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="format-detection" content="telephone=no">
+    <title>Тест-Драйв в Уральском федеральном</title>
+
+    
+    <link rel="stylesheet" href="/static/vendor/slick-1.8.1/slick/slick.css" />
+    <link rel="stylesheet" href="/static/vendor/ticker/ticker.min.css" />
+    <link rel="stylesheet" href="/static/vendor/slick-1.8.1/slick/slick-theme.css" />
+    <link rel="stylesheet" href="/static/vendor/jquery_modal/jquery.modal.min.css" />
+    <link rel="stylesheet" href="/static/site/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="/static/site/css/style.css" />
+    <link rel="shortcut icon" href="/static/site/img/favicon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/static/site/img/apple-touch-favicon.png">
+
+    
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(55462441, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+    });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/55462441" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+	<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?162",t.onload=function(){VK.Retargeting.Init("VK-RTRG-407415-19j1e"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-407415-19j1e" style="position:fixed; left:-999px;" alt=""/></noscript>
+
+    
+
+	<script>
+		var analyticsRegformSubmit = function () {
+			// try { gtag('event', 'successful_registration', { 'event_category': 'submit' }); } catch (e) { console.log('Google analytics error'); }
+			try { ym(55462441,'reachGoal','successful_registration');                       } catch (e) { console.log('Yandex analytics error'); }
+			return true;
+		};
+		var analyticsHeaderRegLink = function () {
+			// try { gtag('event', 'header-reg', { 'event_category': 'click'}); } catch (e) { console.log('Google analytics error'); }
+			try { ym(55462441,'reachGoal','click_header-reg');               } catch (e) { console.log('Yandex analytics error'); }
+			return true;
+		};
+		var analyticsTestingLink = function () {
+			// try { gtag('event', 'test', { 'event_category': 'click'}); } catch (e) { console.log('Google analytics error'); }
+			try { ym(55462441,'reachGoal','click_test');               } catch (e) { console.log('Yandex analytics error'); }
+			return true;
+		};
+		var analyticsRulesRegLink = function () {
+			// try { gtag('event', 'rules-reg', { 'event_category': 'click'}); } catch (e) { console.log('Google analytics error'); }
+			try { ym(55462441,'reachGoal','click_rules-reg');               } catch (e) { console.log('Yandex analytics error'); }
+			return true;
+		}
+	</script>
+
+
+</head>
+<body class="">
+    <div class="main-general-container">
+        <div class="loading-screen">
+  <div class="preloader">
+    <svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="1600" height="900" fill="#41A0F9"/>
+      <circle opacity="0.7" cx="800" cy="450" stroke="white" stroke-width="3" class="animated-circle"/>
+      <circle opacity="0.2" cx="800" cy="450" r="75.5" stroke="white" stroke-width="3"/>
+      </svg>
+  </div>
+</div>
+        
+
+
+  <nav class="main-nav" id="mainNav" data-frontpage="false" data-modpage="false">
+    <button class="btn burger btn-general"></button>
+    <div class="logos-links">
+      <a class="test-drive-logo" href="/"></a>
+      <i></i>
+      <a class="urfu-logo" href="https://urfu.ru/ru/" target="_blank"></a>
+    </div>
+    
+      <div class="block">
+        
+          <a class="btn btn-general" href="/registration/">Регистрация</a>
+          <a class="btn btn-danger avatar" href="/auth/login/"></a>
+        
+      </div>
+    
+  </nav>
+  <div class="shim"></div>
+  <div class="drawer">
+    <div class="drawer-btns-wrapper">
+      <button class="btn burger burger-close"></button>
+      
+    </div>
+    <div class="block">
+      <ul>
+        <li><a href="/rules/" class="">О проекте</a></li>
+        <li><a href="/about/" class="">Об университете</a></li>
+        <li><a href="/presentations/" class="">Презентации команд</a></li>
+        <li><a href="/news/" class="">Новости</a></li>
+      </ul>
+    </div>
+    <div></div>
+  </div>
+  
+
+  
+
+        
+    <main class="content">
+        <section class="team-ratings container">
+            <section class="header-with-tabs">
+                <h2 class="main-title">Рейтинги команд</h2>
+                <a href="/rating/voting/" class="tab tablink ">По результатам интернет-голосования</a>
+                <a href="/rating/scores/" class="tab tablink active">По оценкам экспертного жюри</a>
+            </section>
+
+            <section class="inner-content">
+                <div class=" table-wrapper">
+                    <div class="tabcontent">
+                        
+                            
+
+<section class="alert-page">
+	<div>
+		<h1>Этап подсчета голосов</h1>
+		<p class="parafraph_DESC_16x25">Результаты будут известны 3 марта</p>
+		<img src="/static/site/img/illustration/rocket.png" alt="" class="illustration-letter">
+	</div>
+</section>
+
+                        
+                    </div>
+                </div>
+            </section>
+        </section>
+    </main>
+
+    </div>
+    <div class="main-footer-container">
+        
+
+<footer class="main-footer ">
+	<div class="container">
+		<div class="left-zone">
+			<div class="desc-container">
+				<div class="row socials">
+					<a target="_blank" href="http://vk.com/test_draive_v_urfu" class="item vk"></a>
+					<a target="_blank" href="https://t.me/urfu_drive" class="item tg"></a>
+					
+					<!-- <a target="_blank" href="http://twitter.com/urfu" class="item tw"></a> -->
+				</div>
+				<div class="row">
+					<div class="logos-links">
+						<a class="test-drive-logo" href="/"></a>
+						<i></i>
+						<a class="urfu-logo" href="https://urfu.ru/ru/" target="_blank"></a>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<span class="urfu-sign">© ФГАОУ ВО «УрФУ имени<br/>первого Президента России Б.Н. Ельцина» </span>
+			</div>
+			
+		</div>
+		<div class="right-zone">
+			<div class="row">
+				<div>
+					<div class="description">Звонок по России бесплатный</div>
+					<div class="tel-number"><a href="tel:88001005044">8 800 100 50 44</a></div>
+				</div>
+				<div>
+					<div class="description">Екатеринбург</div>
+					<div class="tel-number"><a href="tel:+73433754444">8 343 375 44 44</a></div>
+				</div>
+			</div>
+			<div class="row">
+				<div>
+					<div class="description">Для ваших вопросов</div>
+					<div class="mail"><a href="mailto:testdrive@urfu.ru">testdrive@urfu.ru</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+    </div>
+
+    <script type="text/javascript" src="/static/vendor/jquery/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="/static/vendor/ticker/ticker.min.js"></script>
+    <script type="text/javascript" src="/static/vendor/validate/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="/static/vendor/slick-1.8.1/slick/slick.min.js"></script>
+    <script type="text/javascript" src="/static/vendor/jquery_modal/jquery.modal.min.js"></script>
+    <script type="text/javascript" src="/static/site/js/script.js"></script>
+    
+    <img blockedImageSrc="https://vk.com/rtrg?p=VK-RTRG-1185569-4CBVh" alt="" style="left:-999px">
+
+
+</body>
+</html>
